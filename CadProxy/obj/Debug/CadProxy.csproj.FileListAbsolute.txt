@@ -1,0 +1,9 @@
+E:\DotNET\Projects\CadProxy\CadProxy\bin\Debug\CadProxy.exe.config
+E:\DotNET\Projects\CadProxy\CadProxy\bin\Debug\CadProxy.exe
+E:\DotNET\Projects\CadProxy\CadProxy\bin\Debug\CadProxy.pdb
+E:\DotNET\Projects\CadProxy\CadProxy\bin\Debug\Newtonsoft.Json.dll
+E:\DotNET\Projects\CadProxy\CadProxy\obj\Debug\CadProxy.csprojResolveAssemblyReference.cache
+E:\DotNET\Projects\CadProxy\CadProxy\obj\Debug\CadProxy.exe
+E:\DotNET\Projects\CadProxy\CadProxy\obj\Debug\CadProxy.pdb
+E:\DotNET\Projects\CadProxy\CadProxy\obj\Debug\CadProxy.MainForm.resources
+E:\DotNET\Projects\CadProxy\CadProxy\obj\Debug\CadProxy.csproj.GenerateResource.Cache
